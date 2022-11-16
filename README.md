@@ -12,3 +12,9 @@ manually inject the treatment into the patient’s eye, thus reducing the limita
 
 ![CNC](https://github.com/remytr/BEng-Project-/blob/main/Images/CNC.png?raw=true)
 ![Dual Syringe Pump](https://github.com/remytr/BEng-Project-/blob/main/Images/Dual%20syringe%20pump.png?raw=true)
+
+# SensirionFlowSensor.ino
+This code  has been provided by Sensirion and the code allows the Sensirion SLF3S-1300F Liquid Flow Sensor to take measurements of temperature and flow rate.
+
+# accelStepper22.ino
+This code is used to control the NEMA 17 stepper motor. It allows the user to enter a command that controls the stepper motor direction, speed, and the number of steps the motor rotates for.
